@@ -53,21 +53,22 @@ C:\Users\YOUR_USER_NAME>
 
 לאחר מכן הקלידו את הפקודה הבאה והקשו Enter כדי לשכפל את מאגר AUTOMATIC1111.
 
-הקלידו:
-
 ```
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 ```
-הקלידו:
+להכנס לתיקייה הקלידו:
 
 ```
 cd stable-diffusion-webui
 ```
-הקלידו:
+לפתוח את התקייה הקלידו:
 
 ```
 start .
 ```
+
+![This is an image](3_2.jpg)
+
 הורידו את המודל [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5) [קישור ישיר להורדת המודל](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt). שימו את המודל בתיקייה \stable-diffusion-webui\models\Stable-diffusion.
 
 ![This is an image](4.jpg)
